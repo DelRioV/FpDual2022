@@ -1,0 +1,6 @@
+Esquema de empresa agroalimentaria
+Clases java:
+TipoProductos.java //Hereda de la clase Productos.java
+Productos.java
+TipoProductosCongelados.java //Hereda de la clase TipoProductos.java
+Envios.java //Hereda de la clase Productos.java
