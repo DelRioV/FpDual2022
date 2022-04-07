@@ -20,7 +20,7 @@ public class EUC5 {
 
 	public static void main(String[] args) {
 		EUC5 cl = new EUC5();
-		System.out.println(cl.comprobar5(new String[] { "hola", "ad10s" }));
+		System.out.println(cl.comprobar5(new String[] { "hola", "ad10s" })[1]);
 	}
 
 }
